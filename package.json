@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grimmdude/MidiWriterJS.git"
+    "url": "git+https://github.com/mitchkm/MidiWriterJS.git"
   },
   "keywords": [
     "midi",
